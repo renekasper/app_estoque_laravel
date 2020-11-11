@@ -21,10 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="974a912f-6f07-44d6-8b80-13d014a1dcf0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProdutoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProdutoController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/produto/alterar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produto/alterar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/produto/inserir.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produto/inserir.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/produto/pesquisar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/produto/pesquisar.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +198,7 @@
       <workItem from="1604091165943" duration="3989000" />
       <workItem from="1604101246390" duration="5343000" />
       <workItem from="1604160475842" duration="661000" />
-      <workItem from="1605122419231" duration="2079000" />
+      <workItem from="1605122419231" duration="7666000" />
     </task>
     <servers />
   </component>
@@ -217,9 +217,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="713" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605127772975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.133.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605127772975" />
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604093761769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.133.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604093761769" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605128906215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/1920.133.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605128906215" />
   </component>
 </project>
